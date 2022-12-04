@@ -23,15 +23,13 @@ Este repositório contém um [Dockerfile](https://docs.docker.com/engine/referen
 
 ## Uso
 
-Uma vez dentro do contêiner, você pode executar o Octave e escrever programas:
+1. Uma vez dentro do contêiner, você pode executar o Octave e escrever programas:
 
     ```
     octave
     ```
 
-
-
-Para rodar um arquivo, dentro do terminal do octave execute:
+2. Para rodar um arquivo, dentro do terminal do octave execute:
     ```
     run('filename.m')
     ```
