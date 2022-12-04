@@ -17,7 +17,8 @@ Este repositório contém um [Dockerfile](https://docs.docker.com/engine/referen
     ```
 
 2. Abra a pasta como container:
-   !(image)[https://i.imgur.com/EHeXhP4.gif]
+   
+    <img src="https://i.imgur.com/EHeXhP4.gif" style="height:200px"/>
 
 
 ## Uso
